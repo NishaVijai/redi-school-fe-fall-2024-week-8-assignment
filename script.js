@@ -1,4 +1,4 @@
-console.log("Week 8 - JS - Loops - Class Assignment");
+console.log("Week 8 - JS - Loops (array) - Class Assignment");
 
 const displayValueElement = document.querySelector(".display_value");
 
